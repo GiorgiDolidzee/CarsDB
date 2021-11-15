@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editText"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:iconTint="#000000"
+        android:title="Edit Text" />
+
+    <item
+        android:id="@+id/deleteItem"
+        android:icon="@drawable/ic_baseline_delete_forever_24"
+        android:iconTint="#FF0000"
+        android:title="Delete Item" />
+
+</menu>
